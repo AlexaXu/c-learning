@@ -1,2 +1,2 @@
 # c-learning
-Learning C and C++ language in class. And write some interesting programes.
+Learning C and C++ language. And write some interesting programes.
